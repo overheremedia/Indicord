@@ -58,6 +58,11 @@
   background-color: var(--background-primary) !important;
 }
 
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {
+	background-color: var(--background-primary) !important;
+}
+
+
 
 /* User card */
 .footer-1fjuF6, .body-3iLsc4 {
