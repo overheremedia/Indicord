@@ -1,0 +1,8 @@
+{
+    "name": "Indicord",
+    "description": "A nice indigo look for discord",
+    "version": "0.0.1",
+    "author": "jakefaith#6001",
+    "license": "MIT",
+    "theme": "./Indicord.theme.css"
+}

@@ -1,0 +1,385 @@
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css);
+
+/**
+ * @name Indicord
+ * @version 1.0.0
+ * @description Indicord
+ */
+
+
+
+
+ :root {
+  /* Variables */
+  --background-primary: #370b75;
+  --background-secondary-alt: #210045;
+  --background-floating:  #210045;
+  --background-secondary: #200045;
+  --background-tertiary: #170036;
+  --activity-card-background: var(--background-tertiary);
+  --channeltextarea-background: #552e8c;
+  --background-message-hover: rgb(35, 5, 69, 0.4);
+  --background-mentioned: rgb(85, 46, 140, 0.7);
+  --background-mentioned-hover: rgb(61, 34, 99);
+  --background-modifier-selected: var(--background-secondary-alt);
+
+  --indicord-spoiler-color: rgb(83, 77, 28);
+
+  --scrollbar-thin-thumb: var(--background-secondary);
+  --scrollbar-thin-track: var(--background-tertiary);
+  --scrollbar-auto-thumb: #8334eb;
+  --scrollbar-auto-track: var(--background-tertiary);
+  --scrollbar-auto-scrollbar-color-thumb: var(--background-secondary);
+  --scrollbar-auto-scrollbar-color-track: var(--background-tertiary);
+}
+
+
+
+
+
+/* Mention / Autofill background */
+.autocomplete-1vrmpx {
+  background-color: var(--background-tertiary) !important;
+}
+
+/* Footers */
+.footer-2gL1pp {
+  background-color: var(--background-secondary) !important;
+}
+
+/* Nitro card content */
+.content-1LAB8Z {
+  background-color: var(--background-secondary) !important;
+}
+
+/* User card */
+.footer-1fjuF6, .body-3iLsc4 {
+  background-color: var(--background-secondary) !important;
+}
+
+.headerTop-3C2Zn0 {
+  background-color: var(--background-tertiary) !important;
+}
+
+/* Role autocomplete */
+.autocompleteScroller-iInVqR {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+.header-2bNvm4 {
+  background-color: var(--background-secondary) !important;
+}
+
+/* Mention Autocomplete */ 
+.selected-1Tbx07 {
+  background-color: var(--background-primary) !important;
+}
+
+/* Server Discovery Page */
+.pageWrapper-1PgVDX {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Server welcome page */
+.main-3auUui {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Set custom status */
+.root-1gCeng {
+  background-color: var(--background-secondary) !important;
+}
+
+/* Manage Member Card */
+.card-FDVird:before {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Create Channel Modal */
+.modal-yWgWj- {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Search bar */
+.searchFilter-2ESiM3,
+.searchAnswer-3Dz2-q {
+    background-color: var(--background-secondary-alt) !important;
+}
+
+#search-results {
+    background-color: var(--background-secondary) !important;
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+#search-results > .focused-2bY0OD {
+    background-color: var(--background-secondary) !important;
+}
+
+.option-96V44q.selected-rZcOL- {
+    background-color: var(--background-modifier-hover) !important;
+
+}
+
+.option-96V44q::after {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 90%) !important
+}
+
+.react-datepicker,
+.react-datepicker__header {
+    background-color: var(--background-secondary) !important;
+}
+
+.react-datepicker__day:not(:hover):not(.react-datepicker__day--disabled):not(.react-datepicker__day--outside-month) {
+    background-color: var(--background-secondary-alt) !important;
+}
+
+.react-datepicker__day {
+    border-color: var(--background-tertiary) !important;
+}
+
+.react-datepicker__day--disabled,
+.react-datepicker__day--outside-month {
+    background-color: var(--background-primary) !important;
+}
+
+.quickswitcher-3JagVE {
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.quickswitcher-3JagVE > .input-2VB9rf {
+  background-color: var(--channeltextarea-background)
+}
+
+/* Settings */
+.selected-mKYnfr {
+  background-color: var(--indicord-spoiler-color) !important;
+  border-color: var(--indicord-spoiler-color) !important;
+}
+
+.wrapper-3jrx9n {
+  border-color: var(--indicord-spoiler-color) !important;
+}
+
+.barFill-23-gu- {
+  background-color: var(--indicord-spoiler-color) !important;
+}
+
+.colorGrey-2DXtkV {
+  background-color: var(--background-secondary) !important;
+}
+
+.userInfoViewing-3djV5v {
+  background-color: var(--background-secondary) !important;
+}
+
+.popoutList-T9CKZQ, .countryButton-3xq3Ts {
+  background-color: var(--background-secondary) !important;
+}
+
+.formNotice-2_hHWR {
+  background-color: var(--background-secondary) !important;
+}
+
+.authedApp-mj2Hmd {
+  background-color: var(--background-secondary) !important;
+}
+
+.paymentPane-3bwJ6A, .codeRedemptionRedirect-1wVR4b {
+  background-color: var(--background-secondary) !important;
+}
+
+.summaryInfo-2QFKUg, .pageActions-1SVAnA {
+  background-color: var(--background-secondary) !important;
+}
+
+.attendeeCTA-3ZZQWt {
+  background-color: var(--background-secondary) !important;
+}
+
+.notDetected-33MY4s, .addGamePopout-2RY8Ju, .css-3vaxre-menu {
+  background-color: var(--background-secondary) !important;
+}
+
+.powercord-account {
+  background-color: var(--background-secondary) !important;
+}
+
+.powercord-product {
+  background-color: var(--background-secondary) !important;
+}
+
+.cardPrimary-1Hv-to {
+  background-color: var(--background-secondary) !important;
+}
+
+.item-26Dhrx {
+  background-color: var(--background-secondary) !important;
+  border-color: var(--background-tertiary) !important;
+}
+
+/* Upload File */
+.uploadModal-2ifh8j, .footer-3mqk7D {
+  background-color: var(--background-tertiary) !important;
+}
+
+/* Spoiler */
+.spoilerText-3p6IlD {
+  background-color: var(--indicord-spoiler-color) !important;
+}
+
+/* Friends List */
+.peopleColumn-29fq28 {
+  background-color: var(--background-primary) !important;
+}
+
+/* Color Picker */
+.colorPickerCustom-2CWBn2 {
+  background-color: var(--background-secondary) !important;
+}
+
+/* Playing Activity */
+.activity-11LB_k {
+  background-color: var(--background-secondary) !important;
+}
+
+.topSectionPlaying-1J5E4n {
+  background-color: var(--background-secondary) !important;
+}
+
+.header-QKLPzZ, .activity-1ythUs {
+  background-color: var(--background-tertiary) !important;
+}
+
+/* Side piece of mention */
+.mentioned-xhSam7::before {
+  background-color: var(--background-tertiary) !important;
+}
+
+/* Unread Message Bar */
+.unreadBar-3YD_k9 {
+  background-color: var(--background-primary) !important;
+}
+
+/* Quote Bar */ 
+.blockquoteDivider-2hH8H6 {
+  background-color: var(--background-tertiary) !important;
+}
+
+/* Back to present */
+.jumpToPresentBar-G1R9s6 {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Gif/Sticker/Emoji Button */ 
+.navButton-2gQCx- {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Careful! Unsaved Changes */ 
+.container-2VW0UT {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Activity card on home page */
+.section-2gLsgF {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Home button */
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+  background-color: var(--background-secondary);
+}
+
+/* Hover of most */
+.clickable-1JJAn8.container-2Pjhx-:active, .highlighted-1gWxXa.container-2Pjhx-, .selected-aXhQR6.container-2Pjhx- {
+  background-color: var(--background-secondary);
+}
+
+/* Channel mention for others */
+.wrapper-3WhCwL:hover {
+  background-color: var(--background-secondary-alt) !important;
+  color: #7289da !important;
+}
+
+/* Delete message modal */
+.message-2qRu38 {
+  background-color: var(--channeltextarea-background) !important;
+}
+
+/* Item Hovers */
+.content-3at_AU:focus, .layout-2DM8Md:focus, .categoryItem-3zFJns:focus, .container-2Pjhx-:focus {
+  background-color: var(--channeltextarea-background) !important;
+}
+
+/* Toolbar when hovering over highlighted message */
+.toolbar-2bjZV7 {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Tooltips */
+.tooltip-2QfLtc {
+  background-color: var(--background-tertiary) !important;
+  backdrop-filter: blur(1.5px);
+  text-shadow: #000 1px 0 5px;
+}
+
+.tooltipPointer-3ZfirK {
+  border-top-color: var(--background-tertiary) !important;
+}
+
+.tooltipContent-bqVLWK > .colorMuted-HdFt4q {
+  color: #F04747;
+}
+
+.tooltipContent-bqVLWK > .row-2OVM4t > svg > path {
+  fill: #43B581;
+}
+
+/* Video Preview Box */
+.previewOverlayInner-1WXURq {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+/* Switch Toggles */
+.container-3auIfb:not([style*="125"]){
+  background-color: var(--background-tertiary) !important;
+}
+
+.container-3auIfb {
+  background-color: var(--background-secondary) !important;
+}
+
+/* Checkbox */
+.checked-3_4uQ9 {
+  background-color: var(--background-secondary) !important;
+}
+
+/* Blurple Button */
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background-color: var(--indicord-spoiler-color) !important;
+}
+
+/* Input selected */
+.cardPrimaryEditable-3KtE4g {
+  background-color: var(--indicord-spoiler-color) !important;
+  border-color: var(--indicord-spoiler-color) !important;
+}
+
+/* Watermark */
+.wordmark-2iDDfm:after {
+    content: "Indicord";
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    font-family: "Discord";
+}
+
+.wordmark-2iDDfm svg {
+  display: none;
+}
+
+.wordmark-2iDDfm {
+    max-width: 90vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
