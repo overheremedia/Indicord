@@ -20,6 +20,7 @@
   --activity-card-background: var(--background-tertiary);
   --channeltextarea-background: #552e8c;
   --background-message-hover: rgb(35, 5, 69, 0.4);
+  --interactive-active: #caa3ff !important;
   --background-mentioned: rgb(85, 46, 140, 0.7);
   --background-mentioned-hover: rgb(61, 34, 99);
   --background-modifier-selected: var(--background-secondary-alt);
