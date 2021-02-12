@@ -83,6 +83,10 @@
   background-color: var(--interactive-active) !important
 }
 
+.clickable-3rdHwn:hover .icon-22AiRD {
+	background-color: var(--interactive-active) !important
+}
+
 
 /* User card */
 .footer-1fjuF6, .body-3iLsc4 {
