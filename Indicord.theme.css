@@ -83,11 +83,6 @@
   background-color: var(--interactive-active) !important
 }
 
-.clickable-3rdHwn:hover .icon-22AiRD {
-	background-color: var(--interactive-active) !important
-}
-
-
 /* User card */
 .footer-1fjuF6, .body-3iLsc4 {
   background-color: var(--background-secondary) !important;
@@ -97,7 +92,7 @@
   background-color: var(--background-tertiary) !important;
 }
 
-/* Role autocomplete */
+
 .autocompleteScroller-iInVqR {
   background-color: var(--background-secondary-alt) !important;
 }
@@ -159,6 +154,7 @@
 .option-96V44q::after {
     background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 90%) !important
 }
+
 
 .react-datepicker,
 .react-datepicker__header {
