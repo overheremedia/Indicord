@@ -13,6 +13,7 @@
  :root {
   /* Variables */
   --background-primary: #370b75;
+  --qf-indi: rgb(35, 5, 69, 0);
   --background-secondary-alt: #210045;
   --background-floating:  #210045;
   --background-secondary: #200045;
