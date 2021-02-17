@@ -83,9 +83,7 @@
   background-color: var(--interactive-active) !important
 }
 
-div[class*="headerPlaying"], div[class*="headerStreaming"] {
-background-color: var(--background-secondary) !important;
-}
+
 
 /* User card */
 .footer-1fjuF6, .body-3iLsc4 {
