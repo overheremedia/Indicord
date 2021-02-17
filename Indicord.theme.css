@@ -89,8 +89,7 @@
 }
 
 .root-1gCeng {
-    background-color: rgb(255,255,255,0) !important;
-
+    background-color: var(--qf-indi) !important;
 }
 
 /* User card */
