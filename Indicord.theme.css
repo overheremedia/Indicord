@@ -73,7 +73,7 @@
 
 
 .activity-11LB_k {
- var(--background-secondary) !important;
+ background-color: var(--activity-background) !important;
 }
 
 
