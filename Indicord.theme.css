@@ -422,3 +422,8 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.root-1gCeng {
+  background-color: var(--background-primary) !important;
+}
+
