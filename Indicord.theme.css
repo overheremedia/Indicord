@@ -203,9 +203,7 @@
   background-color: var(--indicord-spoiler-color) !important;
 }
 
-.colorGrey-2DXtkV {
-  background-color: var(--background-secondary) !important;
-}
+
 
 .userInfoViewing-3djV5v {
   background-color: var(--background-secondary) !important;
@@ -437,4 +435,8 @@
 
 .container-UC8Ug1 {
   background-color: #210045 !important;
+}
+
+.colorGrey-2DXtkV {
+  background-color: #170036 !important;
 }
