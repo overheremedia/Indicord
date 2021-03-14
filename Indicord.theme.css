@@ -13,6 +13,7 @@
  :root {
   /* Variables */
   --background-primary: #370b75;
+  --indi-spotify: #1db954;
   --qf-indi: rgb(35, 5, 69, 0);
   --background-secondary-alt: #210045;
   --background-floating:  #210045;
@@ -114,6 +115,10 @@
 
 .header-2bNvm4 {
   background-color: var(--background-secondary) !important;
+}
+
+.activity-1ythUs {
+  background-color: var(--indi-spotify) !important;
 }
 
 /* Mention Autocomplete */ 
