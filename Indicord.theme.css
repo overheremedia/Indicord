@@ -78,6 +78,9 @@
   background-color: #5023a8 !important;
 }
 
+.topSectionSpotify-1lI0-P + .body-3ND3kc, .headerSpotify-zpWxgT > .activityUserPopout-2yItg2 {
+    background-color: var(--background-secondary) !important;
+}
 
 .activity-11LB_k {
     background-color: var(--activity-background) !important;
