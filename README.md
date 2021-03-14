@@ -4,7 +4,9 @@
 
 Installing themes properly is important to making sure they can be updated by Powercord's updater. The following command will work if you installed Powercord to the default location. 
 Open a command line and run the following command: 
+
 `cd powercord/src/Powercord/themes && git clone https://github.com/overheremedia/Indicord`
+
 Then, reload Discord Canary using ctrl+r (or cmd+r for mac) and your theme should start working.
 
 # Previews
