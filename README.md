@@ -9,7 +9,9 @@ Open a command line and run the following command:
 
 Then, reload Discord Canary using ctrl+r (or cmd+r for mac) and your theme should start working.
 
-# Previews (plain Discord with plugins)
+# Previews
+
+## Plain Discord with plugins
 
 ![alt text](https://imgshare.io/images/2021/03/13/Untitled---2021-03-11T142046.306.png)
 
