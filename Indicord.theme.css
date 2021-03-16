@@ -106,6 +106,10 @@
     background-color: var(--qf-indi) !important;
 }
 
+.container-3auIfb:not([style*="125"]) {
+	background-color: #9760e2 !important;
+}
+
 /* User card */
 .footer-1fjuF6, .body-3iLsc4 {
   background-color: var(--background-secondary) !important;
