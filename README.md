@@ -11,15 +11,9 @@ Then, reload Discord Canary using ctrl+r (or cmd+r for mac) and your theme shoul
 
 # Previews
 
-## Plain Discord with plugins
+## Plain Discord with some plugins
 
-![alt text](https://imgshare.io/images/2021/03/13/Untitled---2021-03-11T142046.306.png)
-
-![alt text](https://imgshare.io/images/2021/03/13/image.png)
-
-## With the themes I use ([BubbleCord](https://github.com/doggybootsy/bubblecord), [Better Channel Indicators](https://github.com/Discord-Theme-Addons/modern-channel-indicators), [Discolored](https://github.com/NYRI4/Discolored), [Blurple Replacer](https://github.com/phenom4n4n/blurple-replacer.git), and some Quick Css)
-
-![alt text](https://imgshare.io/images/2021/03/14/imageaabdec7604fc136b.png)
+![Untitled - 2021-03-11T142046 306](https://user-images.githubusercontent.com/64865142/117594622-7ffdde80-b10c-11eb-9ad8-6cab31379ba4.png)
 
 ## With [Semi Stock Discord](https://github.com/Fahrenheit/Semi-Stock-Discord)
 
